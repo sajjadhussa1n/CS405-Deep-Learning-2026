@@ -35,7 +35,8 @@ Lab work includes Python basics, neural network implementation, CNNs, transfer l
 ### Clone the Repository
 
 ```bash
-git clone # CS405 – Deep Learning
+git clone https://github.com/sajjadhussa1n/CS405-Deep-Learning-2026.git 
+cd CS405-Deep-Learning-2026
 ```
 
 ## 2. Updating Course Materials Weekly
