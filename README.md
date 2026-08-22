@@ -4,13 +4,13 @@
 **Department:** Electrical and Computer Engineering, SEECS, NUST
 **Offering:** Spring 2026
 
-Official course repository for CS-405 Deep Learning. It contains the complete set of lecture slides, week-by-week written explanations of every lecture, hands-on labs, assignments, handouts, and quizzes used throughout the semester. Students should clone this repository at the start of the semester and pull new material as it is released each week.
+Unofficial course repository for CS-405 Deep Learning. It contains the complete set of lecture slides, week-by-week written explanations of every lecture, hands-on labs, assignments, handouts, and quizzes used throughout the semester. Students should clone this repository at the start of the semester and pull new material as it is released each week.
 
 ---
 
 ## Course Description
 
-CS-405 Deep Learning is a graduate/senior-undergraduate level course that builds a deep, practical, and mathematically grounded understanding of modern neural network methods. The course starts from the biological inspiration behind artificial neurons and progresses through feedforward networks, convolutional neural networks for vision, recurrent and attention-based architectures for sequences, generative models, and modern large language models, before closing with an introduction to reinforcement learning.
+CS-405 Deep Learning is a senior-undergraduate level course that builds a deep, practical, and mathematically grounded understanding of modern neural network methods. The course starts from the biological inspiration behind artificial neurons and progresses through feedforward networks, convolutional neural networks for vision, recurrent and attention-based architectures for sequences, generative models, and modern large language models, before closing with an introduction to reinforcement learning.
 
 The course balances theory (derivations, architectural reasoning, and the "why" behind each design choice) with hands-on implementation (Python, NumPy, and PyTorch) so that students leave the course able to both understand and build state-of-the-art deep learning systems.
 
