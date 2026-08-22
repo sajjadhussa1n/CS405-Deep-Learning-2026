@@ -4,7 +4,7 @@
 **Department:** Electrical and Computer Engineering, SEECS, NUST
 **Offering:** Spring 2026
 
-Official course repository for CS-405 Deep Learning. It contains the complete set of lecture slides, week-by-week written explanations of every lecture, hands-on labs, assignments, handouts, and quizzes used throughout the semester. Students should clone this repository at the start of the semester and pull new material as it is released each week.
+Unofficial course repository for CS-405 Deep Learning. It contains the complete set of lecture slides, week-by-week written explanations of every lecture, hands-on labs, assignments, handouts, and quizzes used throughout the semester. Students should clone this repository at the start of the semester and pull new material as it is released each week.
 
 ---
 
