@@ -26,5 +26,3 @@ Part 2 builds directly on the problem, literature review, dataset, and proposed 
 
 - Submit a comprehensive **final report** covering their implementation, experiments, and results, together with their working code.
 - Demo their working project **live in the lab**, graded under the course's lab component.
-
-If a rubric or grading criteria for the final report/demo exists and you'd like it included here, send it over and this page (and folder) can be updated accordingly.
