@@ -59,10 +59,10 @@ CS405-Deep-Learning-2026/
 ├── LICENSE              Usage terms
 ├── slides/               Original lecture slide decks (PDF), one per week
 ├── lectures/             Week-by-week written explanations of every slide deck, in plain language
-├── assignments/          Graded assignments with instructions and rubrics
+├── assignments/          The semester project spec, submitted/graded as Assignment 1 (Part 1) and Assignment 2 (Part 2)
 ├── labs/                 Hands-on, code-along lab handouts (PyTorch)
 ├── handouts/              Supplementary reference material (math primers, cheat sheets, reading lists)
-└── quizzes/               Short practice/graded quizzes with answer keys
+└── quizzes/               The 5 in-class quizzes actually given in the course, with full worked solutions
 ```
 
 Each subfolder has its own `README.md` (or index) describing exactly what is inside it and how it maps to the weekly schedule.
@@ -96,8 +96,8 @@ If you have made local edits to a tracked file (for example, filled-in lab noteb
 2. Review the original `slides/` deck for the exact figures, equations, and definitions used in class.
 3. Complete the matching `labs/` handout to get hands-on practice implementing the concepts.
 4. Consult `handouts/` for supporting math background or tooling references as needed.
-5. Attempt the relevant `quizzes/` to self-check understanding.
-6. Submit `assignments/` by their posted deadlines.
+5. Review the matching `quizzes/` entry (each PDF includes the original questions plus fully worked solutions) to test your understanding.
+6. Refer to `assignments/` for the semester project specification and deadlines.
 
 ## Technical Requirements
 

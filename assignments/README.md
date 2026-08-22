@@ -1,26 +1,27 @@
 # Assignments
 
-This folder contains the graded assignments for CS-405 Deep Learning. Each assignment builds directly on the concepts covered in the corresponding weeks of [`lectures/`](../lectures/) and is meant to be started only after you have read the relevant week's notes and worked through the matching [`labs/`](../labs/).
+The graded work for CS-405 this semester was a single semester-long project, submitted in two parts and graded as two separate assignments.
 
-| # | Assignment | Covers weeks | Topics |
-|---|---|---|---|
-| 1 | [Neural Networks from Scratch](assignment01-neural-network-from-scratch.md) | 1–2 | Perceptrons, backpropagation, training tricks |
-| 2 | [CNNs for Image Classification](assignment02-cnn-image-classification.md) | 3–5 | Convolution, modern architectures, transfer learning, detection/segmentation |
-| 3 | [Sequence Models for Text](assignment03-sequence-models-for-text.md) | 6–7, 11–12 | RNN/GRU/LSTM, word embeddings, tagging |
-| 4 | [Generative Models](assignment04-generative-models.md) | 9–10 | Autoencoders, VAEs, GANs |
-| 5 | [Transformers and LLMs](assignment05-transformers-and-llms.md) | 13–14 | Self-attention, mini-Transformer, fine-tuning, RAG |
-| — | [Final Project](final-project.md) | any | Open-ended capstone, may include Week 15 (RL) |
+| Assignment | Deliverable | Document |
+|---|---|---|
+| Assignment 1 | **Project Part 1** — Problem Definition, Literature Review, and Dataset Analysis | [assignment01-project-part1-literature-review.pdf](assignment01-project-part1-literature-review.pdf) |
+| Assignment 2 | **Project Part 2** — Implementation, experimentation, and final report | *Specification document not yet published in this repository* |
 
-## General submission guidelines
+## Assignment 1 — Project Part 1
 
-Unless the instructor states otherwise for a specific assignment:
+Students chose (individually or in groups of up to 2) a deep learning problem from a list of suggested topics — spanning vision transformers, video action recognition, text summarization, NER, multimodal sentiment analysis, time-series forecasting, image super-resolution, medical image segmentation, zero-shot learning, and several others — or proposed their own, subject to instructor approval. Each group's submission was a single PDF report (6–10 pages, conference-style formatting) covering:
 
-- Submit a single ZIP archive (or a link to your own GitHub repository/fork) containing your code, any trained model checkpoints requested, and a short PDF or Markdown report.
-- Your report should describe your approach, any design decisions or hyperparameters you chose and why, the results you obtained (with plots/tables where relevant), and a brief discussion of what worked, what didn't, and why.
-- All code must run end-to-end from a clean environment; include a `requirements.txt` or note any special dependencies.
-- Cite any external code, tutorials, or papers you referenced. Using publicly available code is fine as a learning aid, but you must understand and be able to explain everything you submit — copying a solution without understanding it defeats the purpose and will be treated as an academic integrity violation.
-- Late submissions: follow the course's standard late-day policy as announced in class (not encoded here — check with the instructor for this semester's policy).
+1. **Problem Definition** — motivation, task formulation, challenges, and success criteria.
+2. **Literature Review** — a survey of at least 5 relevant papers, organized by era (classical ML → early deep learning → modern architectures), with a comparison table and identified gaps.
+3. **Dataset Analysis** — dataset selection, description, exploratory analysis, data splits, and planned augmentation.
+4. **Proposed Approach and Baseline** — a simple baseline plus a justified modern architecture to implement in Part 2.
+5. **Timeline and Implementation Plan** for Part 2.
+6. **References**.
 
-## Grading
+See the full specification, including the complete list of suggested project topics, group-formation rules, and submission/late-policy details, in [assignment01-project-part1-literature-review.pdf](assignment01-project-part1-literature-review.pdf).
 
-Each assignment is typically graded on: correctness of implementation (50%), quality and clarity of experiments/results (25%), and quality of the written report/analysis (25%), unless a per-assignment rubric overrides this.
+## Assignment 2 — Project Part 2
+
+Part 2 builds directly on the problem, literature review, dataset, and proposed architecture established in Part 1: students implemented their proposed model alongside the baseline, ran experiments and hyperparameter tuning, compared results, and submitted a comprehensive final report together with their working code. Project demos/presentations were graded under the course's lab component.
+
+A standalone specification document for Part 2 was not included among the materials migrated into this repository — if you have it, add it here as `assignment02-project-part2-final-report.pdf` (or equivalent) and update this page.

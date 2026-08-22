@@ -1,15 +1,13 @@
 # Quizzes
 
-Short, self-check quizzes covering major topic clusters from the course. Each quiz is designed to take 20–30 minutes and mixes conceptual questions (short answer, multiple choice, "explain why") with small calculations you can do by hand. Every quiz ships with a full answer key at the bottom of its file — the point is self-assessment, not just testing.
+The five in-class quizzes actually administered during the Spring 2026 offering of CS-405. Each PDF contains the original quiz questions exactly as given to students, together with fully worked solutions — use them to check your understanding of the corresponding topic, or as review material ahead of the midterm and final exam.
 
-Use these to check your understanding *before* starting the corresponding assignment, or as review material ahead of the midterm and final exam.
-
-| Quiz | Weeks covered | Topics |
+| Quiz | Topic | Related lecture |
 |---|---|---|
-| [Quiz 1 — Neural Network Foundations](quiz01-neural-network-foundations.md) | 1–2 | Perceptrons, backpropagation, vanishing gradients, initialization, BatchNorm, optimizers, regularization |
-| [Quiz 2 — Convolutional Neural Networks](quiz02-cnns.md) | 3–5 | Convolution, pooling, CNN architectures (AlexNet–ResNet–MobileNet), object detection, segmentation |
-| [Quiz 3 — Sequence Models](quiz03-sequence-models.md) | 6–7, 11–12 | RNNs, BPTT, GRU, LSTM, word embeddings, attention |
-| [Quiz 4 — Generative Models](quiz04-generative-models.md) | 9–10 | Autoencoders, VAEs, GANs and their variants |
-| [Quiz 5 — Transformers and LLMs](quiz05-transformers-and-llms.md) | 13–14 | Self-attention, multi-head attention, the Transformer, pre-training/fine-tuning, LoRA, RAG |
+| [Quiz 1 — CNNs](quiz01-cnns-solution.pdf) | Convolutional layer dimensions and computational cost (e.g., counting multiplications in a forward pass) | [Week 3–5](../lectures/week03-introduction-to-cnns.md) |
+| [Quiz 2 — Variational Autoencoders](quiz02-vaes-solution.pdf) | VAE limitations of standard autoencoders, the reparameterization trick, latent code computation | [Week 9](../lectures/week09-autoencoders-vae.md) |
+| [Quiz 3 — Generative Adversarial Networks](quiz03-gans-solution.pdf) | Generator/Discriminator roles, GAN training failure modes, WGAN loss and gradient penalty | [Week 10](../lectures/week10-gans.md) |
+| [Quiz 4 — Transformers](quiz04-transformers-solution.pdf) | Q/K/V projections, scaled dot-product attention, multi-head attention, encoder/decoder attention masks | [Week 13](../lectures/week13-transformers.md) |
+| [Quiz 5 — Word Embeddings](quiz05-word-embeddings-solution.pdf) | One-hot vs. dense representations, the distributional hypothesis, Word2Vec (skip-gram/CBOW) | [Week 11](../lectures/week11-word-embeddings.md) |
 
-**Note:** Week 8 is midterm/review week and Week 15 (Reinforcement Learning) is covered by the [final project](../assignments/final-project.md) rather than a standalone quiz, since RL is typically explored as an open-ended extension track.
+These are the actual quizzes given in the course, so they double as a good gauge of the level of detail expected — try each one closed-book before checking the solution.
