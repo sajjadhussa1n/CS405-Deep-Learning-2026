@@ -1,0 +1,33 @@
+CS-405: Deep Learning — Course Material License
+
+Copyright (c) 2026 Dr. Sajjad Hussain, Department of Electrical and Computer
+Engineering, SEECS, National University of Sciences and Technology (NUST)
+
+All lecture slides, written notes, assignments, labs, handouts, and quizzes
+in this repository are provided for the educational and personal use of
+students enrolled in CS-405: Deep Learning, and for individual self-study by
+the wider public.
+
+Permission is granted to:
+  - View, download, and use this material for personal learning.
+  - Copy and adapt the material for non-commercial, personal study.
+  - Share links to this repository.
+
+The following are NOT permitted without prior written permission from the
+instructor:
+  - Commercial use or resale of this material in any form.
+  - Redistribution of this material, in original or modified form, as part
+    of another course, workshop, or paid product/service.
+  - Removal of attribution to the original author/instructor.
+
+Code samples included in labs and assignments (if any) may additionally be
+covered by their own open-source licenses where noted; in the absence of a
+more specific license, the terms above apply.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS MATERIAL.
+
+For permissions beyond the scope of this license, contact the instructor.

@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Data / model artifacts students may generate locally
+*.pt
+*.pth
+*.h5
+*.ckpt
+data/
+checkpoints/
+runs/
+wandb/
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
