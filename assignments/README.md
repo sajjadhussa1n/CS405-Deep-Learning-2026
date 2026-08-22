@@ -5,7 +5,7 @@ The graded work for CS-405 this semester was a single semester-long project, sub
 | Assignment | Deliverable | Document |
 |---|---|---|
 | Assignment 1 | **Project Part 1** — Problem Definition, Literature Review, and Dataset Analysis | [assignment01-project-part1-literature-review.pdf](assignment01-project-part1-literature-review.pdf) |
-| Assignment 2 | **Project Part 2** — Implementation, experimentation, and final report | *Specification document not yet published in this repository* |
+| Assignment 2 | **Project Part 2** — Implementation, experimentation, final report, and in-lab demo | *No separate specification document — see below* |
 
 ## Assignment 1 — Project Part 1
 
@@ -22,6 +22,9 @@ See the full specification, including the complete list of suggested project top
 
 ## Assignment 2 — Project Part 2
 
-Part 2 builds directly on the problem, literature review, dataset, and proposed architecture established in Part 1: students implemented their proposed model alongside the baseline, ran experiments and hyperparameter tuning, compared results, and submitted a comprehensive final report together with their working code. Project demos/presentations were graded under the course's lab component.
+Part 2 builds directly on the problem, literature review, dataset, and proposed architecture established in Part 1: students implemented their proposed model alongside the baseline, ran experiments and hyperparameter tuning, and compared results against the baseline. Unlike Part 1, Part 2 was not accompanied by a separate written specification document — students were simply asked to:
 
-A standalone specification document for Part 2 was not included among the materials migrated into this repository — if you have it, add it here as `assignment02-project-part2-final-report.pdf` (or equivalent) and update this page.
+- Submit a comprehensive **final report** covering their implementation, experiments, and results, together with their working code.
+- Demo their working project **live in the lab**, graded under the course's lab component.
+
+If a rubric or grading criteria for the final report/demo exists and you'd like it included here, send it over and this page (and folder) can be updated accordingly.
